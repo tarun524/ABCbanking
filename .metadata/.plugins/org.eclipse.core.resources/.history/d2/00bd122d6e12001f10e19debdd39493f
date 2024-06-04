@@ -1,0 +1,9 @@
+spring.application.name=Customer
+server.port=8888
+spring.datasource.url= jdbc:mysql://localhost:3306/jpabank
+spring.datasource.username= root
+spring.datasource.password= Brillio@123
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect
+spring.jpa.hibernate.ddl-auto=update
+spring.security.user.password= 123456
